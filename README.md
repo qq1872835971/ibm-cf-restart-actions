@@ -27,7 +27,7 @@
 MAIL====>12345@qq.com  
 PWD====>123456QWER  
 RGN====>us-south  
-CFNAME====>cxkjntm  
+CFNAME====>cxjntm  
 
 ## 其他
 
